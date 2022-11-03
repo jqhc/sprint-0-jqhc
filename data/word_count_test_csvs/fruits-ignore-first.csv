@@ -1,0 +1,6 @@
+fruit name,colour,size,sour?
+apple,red,medium,false
+orange,orange,medium,false
+lemon,yellow,small,true
+lychee,red,tiny,false
+pear,yellow,large,false
